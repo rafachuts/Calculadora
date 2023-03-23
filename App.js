@@ -56,7 +56,6 @@ export default function App() {
     }
 
     setCurrentNumber(currentNumber + buttonPressed)
-    setLastNumber("")
   }
 
 
